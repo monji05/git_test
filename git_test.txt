@@ -3,7 +3,6 @@ frojoge
 
 
 from develop1
-from develop1
-1from develop111
+1from develop1-hoge
 from develop1
 
