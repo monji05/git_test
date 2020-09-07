@@ -1,2 +1,1 @@
 from hoge
-from mishina
